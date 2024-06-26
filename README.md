@@ -1,4 +1,4 @@
-!(https://github.com/JRTugs/JRTugs/blob/main/background.jpg)
+![I am Cloud Computing Engineer.](https://github.com/JRTugs/JRTugs/blob/main/background.jpg)
 
 ## Hi there 👋
 
