@@ -1,4 +1,4 @@
-(https://github.com/JRTugs/JRTugs/blob/main/background.jpg)
+!(https://github.com/JRTugs/JRTugs/blob/main/background.jpg)
 
 ## Hi there 👋
 
